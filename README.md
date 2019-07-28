@@ -1,25 +1,15 @@
-# README
+# Twitter Clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
+This is a WebApp inspired on the Twitter, with the same core functionalities, shuch as post, follow someone, be followed, etc.
+It can server as a template for another WebApps, reusing the core CRUD functionality and implementing new platform specifics requirements.
 
-Things you may want to cover:
+## Technologies
+The website was written using pure HTML/CSS/JS and the popular Ruby on Rails framework.
 
-* Ruby version
+## How to use
+1) Build it by yourself:
+// TODO: Describe steps to build the WebApp.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# twitter-clone
+2) Try it online:
+https://pure-citadel-23003.herokuapp.com/
