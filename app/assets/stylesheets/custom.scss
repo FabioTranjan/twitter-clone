@@ -5,6 +5,7 @@
 $grayMediumLight: #eaeaea;
 $grayLight: #d3d3d3;
 $grayDarker: #a9a9a9;
+$blueTwitter: #337ab7;
 
 @mixin box_sizing {
   -moz-box-sizing: border-box; 
@@ -56,7 +57,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: $grayLight;
+  color: $grayDarker;
 }
 
 p {
@@ -67,9 +68,18 @@ p {
 
 /* header */
 
+header {
+  background-color: $blueTwitter !important;
+  img {
+    float: left;
+    margin-right: 5px;
+  }
+}
+
 #logo {
   float: left;
   margin-right: 10px;
+  margin-top: 5px;
   font-size: 1.7em;
   color: white;
   text-transform: uppercase;
