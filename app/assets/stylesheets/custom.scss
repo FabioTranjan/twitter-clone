@@ -74,6 +74,12 @@ header {
     float: left;
     margin-right: 5px;
   }
+  a {
+    color: white !important;
+    &:hover {
+      color: $grayDarker !important;
+    }
+  }
 }
 
 #logo {
