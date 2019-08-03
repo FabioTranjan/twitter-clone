@@ -1,0 +1,15 @@
+one:
+  follower: fabio
+  followed: lana
+
+two:
+  follower: fabio
+  followed: malory
+
+three:
+  follower: lana
+  followed: fabio
+
+four:
+  follower: archer
+  followed: fabio
