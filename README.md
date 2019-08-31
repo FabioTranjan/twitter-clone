@@ -12,4 +12,4 @@ The Ruby on Rails famework was used as the back-end, technical features were use
 * Functional CRUD
 
 ## Try it
-https://pure-citadel-23003.herokuapp.com/
+https://twitter-clone-ftw.herokuapp.com/
