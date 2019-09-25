@@ -8,7 +8,9 @@ It can serve as a template for another WebApps, reusing the core CRUD functional
 The Ruby on Rails famework was used as the back-end, technical features were used, like:
 * Model association ('through' table used)
 * Authentication
-* Validation
+* Validations
+* Database ORM
+* Integration and Unit tests
 * Functional CRUD
 
 ## Try it
